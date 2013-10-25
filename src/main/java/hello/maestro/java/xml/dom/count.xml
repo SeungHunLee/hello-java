@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+	<staff id="1">
+		<firstname>yong</firstname>
+		<lastname>mook kim</lastname>
+		<nickname>mkyong</nickname>
+		<salary>2000000</salary>
+		<age>29</age>
+	</staff>
+	<staff id="2">
+		<firstname>low</firstname>
+		<lastname>yin fong</lastname>
+		<nickname>fong fong</nickname>
+		<salary>1000000</salary>
+	</staff>
+	<staff id="3">
+		<firstname>Ali</firstname>
+		<lastname>Baba</lastname>
+		<nickname>Alibaba</nickname>
+		<salary>199000</salary>
+		<age>40</age>
+	</staff>
+</company>
